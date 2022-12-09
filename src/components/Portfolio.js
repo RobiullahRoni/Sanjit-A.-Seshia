@@ -54,7 +54,7 @@ const Portfolio = () => {
             <span>Portfolio</span>
             <h3>Some of my Amazing Contributions</h3>
             <p>
-           Below you can able to access some of my interview,Photos,Books etc.
+           Below you can able to access some of my interview,Photos,Books,lifestyle etc.
             </p>
           </div>
           <div className="portfolio_filter">
