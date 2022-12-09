@@ -15,8 +15,8 @@ const News = () => {
       <div className="dizme_tm_news">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
-            <span>From My News</span>
-            <h3>{`Our Recent Updates, Blog, Tips, Tricks & More`}</h3>
+            <span>Updates Events</span>
+            <h3>{`our most recent blog post Tricks & More`}</h3>
           </div>
           <div className="news_list">
             <ul>
