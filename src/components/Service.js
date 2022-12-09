@@ -36,7 +36,7 @@ const Service = ({ dark }) => {
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>Services</span>
-            <h3>What I Do for Students</h3>
+            <h3>Special skills for students</h3>
             <p>
               In corrent world skill need for every person, if you achieve
               that skills then you will be ready to face future challenges.
