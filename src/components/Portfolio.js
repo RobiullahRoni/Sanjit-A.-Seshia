@@ -64,7 +64,7 @@ const Portfolio = () => {
                   className={`c-pointer ${activeBtn("*")}`}
                   onClick={handleFilterKeyChange("*")}
                 >
-                  All
+                  All info
                 </a>
               </li>
               <li>
