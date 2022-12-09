@@ -34,7 +34,7 @@ const About = ({ dark }) => {
                     <span className="name">
                       Total
                       <br />
-                      Pepers
+                      Projects
                     </span>
                   </div>
                 </div>
