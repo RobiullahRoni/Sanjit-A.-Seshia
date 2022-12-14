@@ -1,35 +1,29 @@
 [
   {
-    "title": "Why we need theory?",
+    "title": "How to be good Researcher",
     "img": "img/news/1.jpg",
-    "category": "Theory",
-    "date": { "date": "23", "month": "Dec" },
+    "category": "Research",
+    "date": { "date": "20", "month": "Jan" },
     "details": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Start board, Then dive into the specifics, learn how to recognized a quality source, verify information and several sources, bee open to surprising answers, stay organize, take advantage of libray resources"
     ]
   },
   {
-    "title": "How to be appreciated for your hard work as a programer",
+    "title": "How to be good programmmer",
     "img": "img/news/2.jpg",
     "category": "Programming",
-    "date": { "date": "23", "month": "Dec" },
+    "date": { "date": "30", "month": "Mar" },
     "details": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Here are six steps to becoming a better programmer this year. Coding is an evolving discipline. That’s often what draws people to it – aside from the opportunity to work with some of the biggest companies in the world – but it also means that those in the industry need to constantly look forward. It’s not enough to get to grips with the most in-demand languages. If you want to advance in your career, you need to start thinking about how you can become a better programmer all-round, and these six steps are a good start (if I do say so myself)."
     ]
   },
   {
-    "title": "How AI is work?",
+    "title": "How AI works step by step",
     "img": "img/news/3.jpg",
     "category": "AI",
-    "date": { "date": "23", "month": "Dec" },
+    "date": { "date": "17", "month": "Apr" },
     "details": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "AI System work by combining a large sets of data with intelligent, iteratibe, processing algorithms to learn from patters and features in the data that they analyze. Each time AI system runs a round of data processing, it tests and measures it's one's performance and develops additionals experties.In our daily life voice assistance, image recognization for face unlock in cell phones, and ML-baised finalcial for detaction are examples of AI software currectly being used in everyday life"
     ]
   }
 ]
